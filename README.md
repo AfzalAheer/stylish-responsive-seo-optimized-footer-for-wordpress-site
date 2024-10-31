@@ -1,4 +1,4 @@
-# Customizable Website Footer for UrduMeinHelp
+# Customizable Website Footer for websites
 
 This repository contains a responsive and customizable footer section designed for the website [urdumeinhelp.com](https://urdumeinhelp.com). This footer offers quick links, social media icons, a newsletter signup, cookie consent, and a back-to-top button, all with optimized code and SEO-friendly features.
 
